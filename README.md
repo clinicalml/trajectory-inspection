@@ -1,6 +1,6 @@
 # Trajectory inspection: A Method for Iterative Clinician-Driven Design of Reinforcement Learning Studies
 
-This repository contains the code for reproducing our paper at TODO. We use data from MIMIC-III, and the model we inspect is from the AI Clinician paper at https://www.nature.com/articles/s41591-018-0213-5.
+This repository contains the code for reproducing our paper [here](https://arxiv.org/abs/2010.04279). We use data from MIMIC-III, and the model we inspect is from the AI Clinician paper at https://www.nature.com/articles/s41591-018-0213-5.
 
 To run this repository,
 1. **Set up the environment**: Run `bash setup_env.sh`. Each time you use this repository, start with `conda activate trajectory-inspection`.
